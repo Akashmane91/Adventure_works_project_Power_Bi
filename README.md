@@ -1,3 +1,7 @@
+Adventure_works_project_Power_Bi 
+A Power BI dashboard providing insights into revenue, profit, orders, and return rates to optimize business performance.
+![akashhahddas](https://github.com/user-attachments/assets/cc73d2a5-6d2b-4aec-92cb-7c1aba6c050d)
+
 ##Overview
 
 This project utilizes Power BI to visualize and analyze key metrics such as sales performance, product profitability, and customer demographics. The goal is to create interactive dashboards and reports that help stakeholders make informed decisions based on data-driven insights.
