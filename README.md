@@ -4,11 +4,11 @@ A Power BI dashboard providing insights into revenue, profit, orders, and return
 
 ![akashhahddas](https://github.com/user-attachments/assets/cc73d2a5-6d2b-4aec-92cb-7c1aba6c050d)
 
-##Overview
+## Overview
 
 This project utilizes Power BI to visualize and analyze key metrics such as sales performance, product profitability, and customer demographics. The goal is to create interactive dashboards and reports that help stakeholders make informed decisions based on data-driven insights.
 
-##key Features
+## key Features
 
 •	Interactive Dashboards: Dynamic, user-friendly dashboards that allow users to explore data across multiple dimensions (e.g., sales by region, product performance, customer segmentation).
 
@@ -20,7 +20,7 @@ This project utilizes Power BI to visualize and analyze key metrics such as sale
 
 •	DAX Measures: A set of custom DAX measures to calculate important KPIs like Total Sales, Profit Margin, and Sales Growth.
 
-##Sample dashboard
+## Sample dashboard
 
 ![Capture 1](https://github.com/user-attachments/assets/a1d9a483-d2ac-4e90-8e8f-600265e458f3)
 ![Capture2](https://github.com/user-attachments/assets/e331e346-7288-4a34-8d42-90a48fe7b860)
